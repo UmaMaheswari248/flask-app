@@ -4,7 +4,7 @@
 
 flask-app contains information about how to write API's using flask frame work in python.
 
-It mainly discuss about How to write API's using Get and POST methods.
+It mainly discuss about How to write API's using GET and POST methods.
 
 #### Usage
 
@@ -116,7 +116,9 @@ def post_post_request():
 
 This API accepts request and gives json response like below:
 
-![post-request](/home/syntizen/UMA/technologies/git/flask_app/screen-shots/post-request.png)
+
+
+![post-request](./screen-shots/post-request.png)
 
 #### POST AND GET METHOD FOR SAME API:
 
